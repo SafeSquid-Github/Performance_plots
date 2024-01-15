@@ -11,7 +11,7 @@ else
 fi
 
 #Path for your auto_plot ini file
-AUTO_PLOT_INI=/usr/local/src/Generate_Performance_Plot/auto_plot.ini
+AUTO_PLOT_INI=/opt/extras/autoplot/auto_plot.ini
 
 #make ini file for auto_plot script
 MAKE_INI () {

@@ -21,8 +21,9 @@ auto_plot.sh <time range>
 Example1: auto_plot.sh today
 Example2: auto_plot.sh 10 hours ago
 Example3: auto_plot.sh last day
-Example4: auto_plot.sh 2 days day
+Example4: auto_plot.sh 2 days ago
 Example5: auto_plot.sh last week
+Example5: auto_plot.sh all time
 Example6: auto_plot.sh -p today
 ```
 
